@@ -6,7 +6,7 @@
 int main()
 {
     system("chcp 1251");
-    foo(2,1,0);
+    foo(2,2,0);
     return 0;
     
 }
